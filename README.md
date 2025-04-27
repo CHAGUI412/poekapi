@@ -54,7 +54,6 @@ quien-es-este-pokemon/
 
 ## 📸 Captura de pantalla
 
-*(Puedes agregar una imagen aquí si quieres, ejemplo:)*
 
 ![image](https://github.com/user-attachments/assets/4a6159be-66f2-4e24-bf68-ece5cd9aa0be)
 
