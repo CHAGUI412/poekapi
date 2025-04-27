@@ -1,10 +1,3 @@
-¡Con todo el gusto! 🔥  
-Un buen `README.md` hace que tu proyecto se vea mucho más pro 👨‍💻✨.
-
-Te hago uno **sencillo, limpio y directo**, perfecto para entregar o subir a GitHub:
-
----
-
 # 🧩 ¿Quién es este Pokémon?
 
 Este proyecto es un pequeño juego web que se conecta a la **PokéAPI** y permite jugar al clásico **"¿Quién es este Pokémon?"**.  
